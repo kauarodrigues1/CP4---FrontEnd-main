@@ -28,3 +28,7 @@
 .footer .social-icons a:hover {
     color: #007bff;
 }
+
+.navbar-nav .nav-item {
+    margin-right: 50px;
+}
