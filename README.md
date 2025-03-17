@@ -1,12 +1,13 @@
-integrantes: Kauã Rodrigues de Souza RM: 559335
-             Felipe Santos
-             Gustavo Naoto
+integrantes: Kauã Rodrigues de Souza;
+             Felipe Santos;
+             Gustavo Naoto;
 
 
 Página Inicial (Home):
 - Header: Barra de navegação com logo, menu, e ícone de carrinho.
 - Banner: Um carrossel (usando Bootstrap) que destaque as promoções e produtos em destaque.
-- Seções de Produtos: Grid de produtos organizados em categorias (ex: Roupas, Beleza, Casa, etc.), com uso de cartões do Bootstrap.2. Página de Categorias:
+- Seções de Produtos: Grid de produtos organizados em categorias (ex: Roupas, Beleza, Casa, etc.), com uso de cartões do Bootstrap.
+2. Página de Categorias:
  - Lista de produtos em um layout de grid, onde cada produto tem imagem, nome, preço e botão "Adicionar ao Carrinho".
  - Filtros laterais (usando colunas de Bootstrap) para filtrar por preço, tipo de produto, e marca.
 3. Página de Detalhes do Produto:
