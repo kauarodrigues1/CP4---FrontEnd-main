@@ -2,6 +2,9 @@ integrantes: Kauã Rodrigues de Souza;
              Felipe Santos;
              Gustavo Naoto;
 
+gitPages: https://kauarodrigues1.github.io/CP4---FrontEnd-main/
+linkedin: https://www.linkedin.com/in/kauã-rodrigues-937976324/
+
 
 Página Inicial (Home):
 - Header: Barra de navegação com logo, menu, e ícone de carrinho.
